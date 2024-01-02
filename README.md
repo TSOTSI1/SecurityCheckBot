@@ -44,3 +44,8 @@ Includes error handling for exceptions in API calls and processing.
 This bot is for educational and development purposes. Always ensure compliance with OpenAI's usage policies and LINE's guidelines.
 
 ---
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
